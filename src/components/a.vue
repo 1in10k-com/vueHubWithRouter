@@ -1,3 +1,7 @@
 <template>
-  <div>aaa</div>
+  <div>
+    aaa
+
+    <router-view></router-view>
+  </div>
 </template>
